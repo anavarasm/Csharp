@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/post.cmd/">
+    <Project Path="post.cmd/Post.Cmd.Api/Post.Cmd.Api.csproj" />
+    <Project Path="post.cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj" />
+    <Project Path="post.cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/post.qry/">
+    <Project Path="post.qry/Post.Query.Api/Post.Query.Api.csproj" />
+    <Project Path="post.qry/Post.Query.Domain/Post.Query.Domain.csproj" />
+    <Project Path="post.qry/Post.Query.Infrasturcture/Post.Query.Infrasturcture.csproj" />
+  </Folder>
+  <Project Path="../cqrs-es/CQRS.core/CQRS.core.csproj" />
+  <Project Path="Post.Common/Post.Common.csproj" />
+</Solution>

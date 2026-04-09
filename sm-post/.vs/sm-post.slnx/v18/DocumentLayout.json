@@ -1,0 +1,1146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mine\\coreApps\\docker\\sm-post\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\controllers\\postlookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\controllers\\postlookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\repositories\\postrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\repositories\\postrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\queries\\queryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\queries\\queryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\dispatchers\\querydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\dispatchers\\querydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\consumers\\eventconsumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\consumers\\eventconsumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\consumers\\consumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\consumers\\consumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.infrastructure\\repositories\\eventstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|solutionrelative:post.cmd\\post.cmd.infrastructure\\repositories\\eventstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\controllers\\likepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\likepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.infrastructure\\producers\\eventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|solutionrelative:post.cmd\\post.cmd.infrastructure\\producers\\eventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.infrastructure\\stores\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|solutionrelative:post.cmd\\post.cmd.infrastructure\\stores\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.infrastructure\\handlers\\eventsourcinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|solutionrelative:post.cmd\\post.cmd.infrastructure\\handlers\\eventsourcinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEC51F1-D04A-6894-5924-C2A84A409333}|post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.domain\\aggregates\\postaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEC51F1-D04A-6894-5924-C2A84A409333}|post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj|solutionrelative:post.cmd\\post.cmd.domain\\aggregates\\postaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.infrastructure\\dispatchers\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|solutionrelative:post.cmd\\post.cmd.infrastructure\\dispatchers\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\controllers\\addcommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\addcommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\handlers\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\handlers\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\queries\\findpostwithlikesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\queries\\findpostwithlikesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\queries\\findallpostqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\queries\\findallpostqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\dtos\\postlookupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\dtos\\postlookupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.domain\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|solutionrelative:post.qry\\post.query.domain\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\infrastructure\\iquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\queries\\findpostbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\queries\\findpostbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.domain\\entities\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|solutionrelative:post.qry\\post.query.domain\\entities\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\queries\\findpostbyauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\queries\\findpostbyauthorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\queries\\findpostwithcommentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\queries\\findpostwithcommentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\queries\\basequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\post.query.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\post.query.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\commands\\deletepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\commands\\deletepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\controllers\\removepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\removepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\controllers\\removecommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\removecommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\events\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\infrastructure\\ieventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\controllers\\editcommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\editcommentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\controllers\\editmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\editmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\infrastructure\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\commands\\editcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\commands\\editcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\commands\\likepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\commands\\likepostcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\events\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\controllers\\newpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\controllers\\newpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.infrastructure\\config\\mongodbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40531E62-2DDE-7187-1B0D-841A2E6FD2E5}|post.cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj|solutionrelative:post.cmd\\post.cmd.infrastructure\\config\\mongodbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\post.cmd.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\post.cmd.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.api\\post.query.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EFE9210E-1FCC-6112-38CF-D41ADE3A22A9}|post.qry\\Post.Query.Api\\Post.Query.Api.csproj|solutionrelative:post.qry\\post.query.api\\post.query.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\consumers\\ieventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\dtos\\newpostresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\dtos\\newpostresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.common\\dtos\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|solutionrelative:post.common\\dtos\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\producers\\ieventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\converters\\eventjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\converters\\eventjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\dataaccess\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\dataaccess\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.common\\events\\postlikeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|solutionrelative:post.common\\events\\postlikeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.common\\post.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|solutionrelative:post.common\\post.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.common\\events\\commentaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|solutionrelative:post.common\\events\\commentaddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.domain\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|solutionrelative:post.qry\\post.query.domain\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.infrasturcture\\dataaccess\\databasecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D54435-79BB-4ADE-6B62-ADF7447DECE0}|post.qry\\Post.Query.Infrasturcture\\Post.Query.Infrasturcture.csproj|solutionrelative:post.qry\\post.query.infrasturcture\\dataaccess\\databasecontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.domain\\entities\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|solutionrelative:post.qry\\post.query.domain\\entities\\commententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\exceptions\\aggregatenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\handlers\\ieventsourcinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\exceptions\\concurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.common\\events\\postremovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DB8137-5868-F435-E94C-197A145D1218}|Post.Common\\Post.Common.csproj|solutionrelative:post.common\\events\\postremovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E7EAC7-BEC0-5C2C-6276-AB35B9C70F4C}|..\\cqrs-es\\CQRS.core\\CQRS.core.csproj|c:\\mine\\coreapps\\docker\\cqrs-es\\cqrs.core\\cqrs.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.api\\commands\\removecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E7E726-E9CB-609E-2B0E-21A0D1FAE456}|post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj|solutionrelative:post.cmd\\post.cmd.api\\commands\\removecommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.qry\\post.query.domain\\post.query.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A918435D-038D-2C13-9DA5-124DA5A2181B}|post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj|solutionrelative:post.qry\\post.query.domain\\post.query.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEC51F1-D04A-6894-5924-C2A84A409333}|post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj|c:\\mine\\coreapps\\docker\\sm-post\\post.cmd\\post.cmd.domain\\post.cmd.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CEC51F1-D04A-6894-5924-C2A84A409333}|post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj|solutionrelative:post.cmd\\post.cmd.domain\\post.cmd.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventConsumers.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Consumers\\EventConsumers.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\Consumers\\EventConsumers.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Consumers\\EventConsumers.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\Consumers\\EventConsumers.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:23:15.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsumerHostedService.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Consumers\\ConsumerHostedService.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\Consumers\\ConsumerHostedService.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Consumers\\ConsumerHostedService.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\Consumers\\ConsumerHostedService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T19:54:44.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueryDispatcher.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Dispatchers\\QueryDispatcher.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\Dispatchers\\QueryDispatcher.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Dispatchers\\QueryDispatcher.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\Dispatchers\\QueryDispatcher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:40:58.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryHandler.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\QueryHandler.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Queries\\QueryHandler.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\QueryHandler.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Queries\\QueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAywBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:58:07.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRepositoy.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Repositories\\PostRepositoy.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\Repositories\\PostRepositoy.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Repositories\\PostRepositoy.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\Repositories\\PostRepositoy.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:37:19.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostLookupController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Controllers\\PostLookupController.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Controllers\\PostLookupController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Controllers\\PostLookupController.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Controllers\\PostLookupController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAMwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:02:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventStoreRepository.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Repositories\\EventStoreRepository.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Infrastructure\\Repositories\\EventStoreRepository.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Repositories\\EventStoreRepository.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Infrastructure\\Repositories\\EventStoreRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T17:42:23.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\appsettings.json",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\appsettings.json",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T15:06:24.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Program.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Program.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Program.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T15:04:37.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LikePostController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\LikePostController.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Controllers\\LikePostController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\LikePostController.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Controllers\\LikePostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:26:24.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Domain\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Domain\\AggregateRoot.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Domain\\AggregateRoot.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Domain\\AggregateRoot.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:12:32.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventStore.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Stores\\EventStore.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Infrastructure\\Stores\\EventStore.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Stores\\EventStore.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Infrastructure\\Stores\\EventStore.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAWwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:53:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Program.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Program.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Program.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:42:00.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventProducer.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Producers\\EventProducer.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Infrastructure\\Producers\\EventProducer.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Producers\\EventProducer.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Infrastructure\\Producers\\EventProducer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAWwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T04:56:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventSourcingHandler.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Handlers\\EventSourcingHandler.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Infrastructure\\Handlers\\EventSourcingHandler.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Handlers\\EventSourcingHandler.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Infrastructure\\Handlers\\EventSourcingHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:54:06.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostAggregate.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Domain\\Aggregates\\PostAggregate.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Domain\\Aggregates\\PostAggregate.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Domain\\Aggregates\\PostAggregate.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Domain\\Aggregates\\PostAggregate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAMwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:55:28.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CommandDispatcher.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Dispatchers\\CommandDispatcher.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Infrastructure\\Dispatchers\\CommandDispatcher.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Dispatchers\\CommandDispatcher.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Infrastructure\\Dispatchers\\CommandDispatcher.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:09:29.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddCommentController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\AddCommentController.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Controllers\\AddCommentController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\AddCommentController.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Controllers\\AddCommentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:05:12.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:12:32.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventHandler.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Handlers\\EventHandler.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\Handlers\\EventHandler.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Handlers\\EventHandler.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\Handlers\\EventHandler.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAASwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T07:44:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FindAllPostQueries.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindAllPostQueries.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Queries\\FindAllPostQueries.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindAllPostQueries.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Queries\\FindAllPostQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:23:26.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FindPostByIdQuery.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostByIdQuery.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Queries\\FindPostByIdQuery.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostByIdQuery.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Queries\\FindPostByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:25:01.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FindPostWithLikesQuery.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostWithLikesQuery.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Queries\\FindPostWithLikesQuery.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostWithLikesQuery.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Queries\\FindPostWithLikesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:29:51.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Queries\\IQueryHandler.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\IQueryHandler.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Queries\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:55:29.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PostLookupResponse.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\DTOs\\PostLookupResponse.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\DTOs\\PostLookupResponse.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\DTOs\\PostLookupResponse.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\DTOs\\PostLookupResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:57:19.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T18:57:27.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FindPostWithCommentsQuery.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostWithCommentsQuery.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Queries\\FindPostWithCommentsQuery.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostWithCommentsQuery.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Queries\\FindPostWithCommentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:29:18.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Domain\\Repositories\\IPostRepository.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Domain\\Repositories\\IPostRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:52:25.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FindPostByAuthorQuery.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostByAuthorQuery.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Queries\\FindPostByAuthorQuery.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Queries\\FindPostByAuthorQuery.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Queries\\FindPostByAuthorQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:31:04.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IQueryDispatcher.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Infrastructure\\IQueryDispatcher.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Infrastructure\\IQueryDispatcher.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Infrastructure\\IQueryDispatcher.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Infrastructure\\IQueryDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:34:02.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Post.Query.Api.csproj",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T07:22:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseQueries.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Queries\\BaseQueries.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Queries\\BaseQueries.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Queries\\BaseQueries.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Queries\\BaseQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:22:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PostEntity.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Entities\\PostEntity.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Domain\\Entities\\PostEntity.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Entities\\PostEntity.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Domain\\Entities\\PostEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:36:33.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeletePostCommand.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\DeletePostCommand.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Commands\\DeletePostCommand.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\DeletePostCommand.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Commands\\DeletePostCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:07:43.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RemovePostController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\RemovePostController.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Controllers\\RemovePostController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\RemovePostController.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Controllers\\RemovePostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:01:33.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RemoveCommentController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\RemoveCommentController.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Controllers\\RemoveCommentController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\RemoveCommentController.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Controllers\\RemoveCommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:15:27.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEvent.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Events\\BaseEvent.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Events\\BaseEvent.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Events\\BaseEvent.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Events\\BaseEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:33:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEventStore.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Infrastructure\\IEventStore.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Infrastructure\\IEventStore.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Infrastructure\\IEventStore.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Infrastructure\\IEventStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:59:10.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditCommentController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\EditCommentController.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Controllers\\EditCommentController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\EditCommentController.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Controllers\\EditCommentController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:02:23.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EditMessageController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Controllers\\EditMessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T15:32:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Commands\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Commands\\BaseCommand.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Commands\\BaseCommand.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Commands\\BaseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:51:20.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditCommentCommand.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\EditCommentCommand.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Commands\\EditCommentCommand.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\EditCommentCommand.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Commands\\EditCommentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:04:29.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICommandDispatcher.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Infrastructure\\ICommandDispatcher.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Infrastructure\\ICommandDispatcher.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Infrastructure\\ICommandDispatcher.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Infrastructure\\ICommandDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:59:07.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LikePostCommand.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\LikePostCommand.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Commands\\LikePostCommand.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\LikePostCommand.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Commands\\LikePostCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:59:25.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Events\\EventModel.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Events\\EventModel.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Events\\EventModel.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Events\\EventModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:33:47.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NewPostController.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Controllers\\NewPostController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:34:43.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\appsettings.json",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\appsettings.json",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T02:39:55.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T08:42:39.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MongoDbConfig.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Config\\MongoDbConfig.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Infrastructure\\Config\\MongoDbConfig.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Infrastructure\\Config\\MongoDbConfig.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Infrastructure\\Config\\MongoDbConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:38:02.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Post.Cmd.Api.csproj",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T11:53:30.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Post.Query.Api",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "RelativeToolTip": "post.qry\\Post.Query.Api\\Post.Query.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T08:35:59.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IEventConsumer.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Consumers\\IEventConsumer.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Consumers\\IEventConsumer.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Consumers\\IEventConsumer.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Consumers\\IEventConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:08:17.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "NewPostResponse.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\DTOs\\NewPostResponse.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\DTOs\\NewPostResponse.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\DTOs\\NewPostResponse.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\DTOs\\NewPostResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:32:20.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\DTOs\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "Post.Common\\DTOs\\BaseResponse.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\DTOs\\BaseResponse.cs",
+              "RelativeToolTip": "Post.Common\\DTOs\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:31:21.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EventJsonConverter.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Converters\\EventJsonConverter.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\Converters\\EventJsonConverter.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\Converters\\EventJsonConverter.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\Converters\\EventJsonConverter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:46:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IEventProducer.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Producers\\IEventProducer.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Producers\\IEventProducer.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Producers\\IEventProducer.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Producers\\IEventProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:11:57.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PostLikeEvent.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Events\\PostLikeEvent.cs",
+              "RelativeDocumentMoniker": "Post.Common\\Events\\PostLikeEvent.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Events\\PostLikeEvent.cs",
+              "RelativeToolTip": "Post.Common\\Events\\PostLikeEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:21:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CommentAddedEvent.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Events\\CommentAddedEvent.cs",
+              "RelativeDocumentMoniker": "Post.Common\\Events\\CommentAddedEvent.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Events\\CommentAddedEvent.cs",
+              "RelativeToolTip": "Post.Common\\Events\\CommentAddedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T11:44:15.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContext.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContext.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:57:26.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Post.Common.csproj",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Post.Common.csproj",
+              "RelativeDocumentMoniker": "Post.Common\\Post.Common.csproj",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Post.Common.csproj",
+              "RelativeToolTip": "Post.Common\\Post.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T11:59:32.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Repositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Domain\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Repositories\\ICommentRepository.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Domain\\Repositories\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T20:04:19.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DataBaseContextFactory.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContextFactory.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContextFactory.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContextFactory.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Infrasturcture\\DataAccess\\DataBaseContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:35:50.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CommentEntity.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Entities\\CommentEntity.cs",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Domain\\Entities\\CommentEntity.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Entities\\CommentEntity.cs",
+              "RelativeToolTip": "post.qry\\Post.Query.Domain\\Entities\\CommentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:46:32.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AggregateNotFoundException.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Exceptions\\AggregateNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Exceptions\\AggregateNotFoundException.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Exceptions\\AggregateNotFoundException.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Exceptions\\AggregateNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:57:01.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IEventSourcingHandler.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Handlers\\IEventSourcingHandler.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Handlers\\IEventSourcingHandler.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Handlers\\IEventSourcingHandler.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Handlers\\IEventSourcingHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:00:55.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ConcurrencyException.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Exceptions\\ConcurrencyException.cs",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\Exceptions\\ConcurrencyException.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\Exceptions\\ConcurrencyException.cs",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\Exceptions\\ConcurrencyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:51:35.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PostRemovedEvent.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Events\\PostRemovedEvent.cs",
+              "RelativeDocumentMoniker": "Post.Common\\Events\\PostRemovedEvent.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\Post.Common\\Events\\PostRemovedEvent.cs",
+              "RelativeToolTip": "Post.Common\\Events\\PostRemovedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:27:40.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CQRS.core.csproj",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\CQRS.core.csproj",
+              "RelativeDocumentMoniker": "..\\cqrs-es\\CQRS.core\\CQRS.core.csproj",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\cqrs-es\\CQRS.core\\CQRS.core.csproj",
+              "RelativeToolTip": "..\\cqrs-es\\CQRS.core\\CQRS.core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T12:33:55.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RemoveCommentCommand.cs",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\RemoveCommentCommand.cs",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Api\\Commands\\RemoveCommentCommand.cs",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Api\\Commands\\RemoveCommentCommand.cs",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Api\\Commands\\RemoveCommentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:06:12.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Post.Query.Domain.csproj",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj",
+              "RelativeDocumentMoniker": "post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj",
+              "RelativeToolTip": "post.qry\\Post.Query.Domain\\Post.Query.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T12:02:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Post.Cmd.Domain.csproj",
+              "DocumentMoniker": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+              "RelativeDocumentMoniker": "post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+              "ToolTip": "C:\\mine\\coreApps\\docker\\sm-post\\post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+              "RelativeToolTip": "post.cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T11:57:33.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

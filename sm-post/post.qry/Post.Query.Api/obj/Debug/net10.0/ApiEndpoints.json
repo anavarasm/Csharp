@@ -1,0 +1,89 @@
+[
+  {
+    "ContainingType": "Post.Query.Api.Controllers.PostLookUpController",
+    "Method": "GetAllPostsAsync",
+    "RelativePath": "api/v1/PostLookUp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Post.Query.Api.Controllers.PostLookUpController",
+    "Method": "GetPostByAuthorAsync",
+    "RelativePath": "api/v1/PostLookUp/byAuthor/{author}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "author",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Post.Query.Api.Controllers.PostLookUpController",
+    "Method": "GetPostByIdAsync",
+    "RelativePath": "api/v1/PostLookUp/byId/{postId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Post.Query.Api.Controllers.PostLookUpController",
+    "Method": "GetPostsWithCommentsAsync",
+    "RelativePath": "api/v1/PostLookUp/withComments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Post.Query.Api.Controllers.PostLookUpController",
+    "Method": "GetPostsWithLikesAsync",
+    "RelativePath": "api/v1/PostLookUp/withLikes/{likes}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "likes",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__1",
+    "RelativePath": "weatherforecast",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WeatherForecast[]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

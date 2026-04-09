@@ -1,0 +1,17 @@
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Cmd.Domain.deps.json
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Cmd.Domain.dll
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Cmd.Domain.pdb
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\bin\Debug\net10.0\CQRS.core.dll
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Common.dll
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\bin\Debug\net10.0\CQRS.core.pdb
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Common.pdb
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.AssemblyInfo.cs
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.1A443DE5.Up2Date
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.dll
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\refint\Post.Cmd.Domain.dll
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.pdb
+C:\mine\coreApps\docker\sm-post\post.cmd\Post.Cmd.Domain\obj\Debug\net10.0\ref\Post.Cmd.Domain.dll
